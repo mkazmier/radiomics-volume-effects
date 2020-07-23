@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 results/
+data/lung1/
+data/hn1/
