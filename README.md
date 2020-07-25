@@ -1,8 +1,7 @@
 # Machine learning helps identifying volume-confounding effects in radiomics
 Authors: **Alberto Traverso**, **Michal Kazmierski**, Ivan Zhovannik, Mattea Welch, Leonard Wee, David Jaffray, Andre Dekker, Andrew Hope
-DOI: [https://doi.org/10.1016/j.ejmp.2020.02.010]()
 
-This repository contains the analysis code for the 2020 *Physica Medica* publication. Refer to the manuscript for more information.
+This repository contains the analysis code for the 2020 *Physica Medica* publication. Refer to [the manuscript](https://doi.org/10.1016/j.ejmp.2020.02.010). for more information.
 
 ## Setup
 1. Install the required packages:
