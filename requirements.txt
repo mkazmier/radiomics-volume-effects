@@ -2,7 +2,7 @@ joblib==0.13.0
 lifelines==0.14.6
 matplotlib==3.0.1
 notebook==6.0.3
-numpy==1.15.1
+numpy==1.22.0
 pandas==0.23.4
 pyradiomics==2.0.1
 PyWavelets==1.0.0
